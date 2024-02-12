@@ -10,7 +10,7 @@ public class EjerciciosFP {
         //Exercise - Print squares of first 10 numbers!
         //Clue - IntStream.range(1,10)
         squareOfTen();
-        System.out.println( );
+        System.out.println();
         toLowerCase(words);
         System.out.println();
         wordLength(words);
