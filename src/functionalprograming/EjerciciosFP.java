@@ -12,7 +12,7 @@ public class EjerciciosFP {
         squareOfTen();
         System.out.println();
         toLowerCase(words);
-        System.out.println();
+        System.out.println( );
         wordLength(words);
     }
     private static void squareOfTen(){
