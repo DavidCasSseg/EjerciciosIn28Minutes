@@ -1,3 +1,5 @@
+package Inicio;
+
 public class Fan {
     private String make = "";
     private double radius;
@@ -31,7 +33,7 @@ public class Fan {
 
     @Override
     public String toString() {
-        return "Fan{" +
+        return "Inicio.Fan{" +
                 "make='" + make + '\'' +
                 ", radius=" + radius +
                 ", color='" + color + '\'' +

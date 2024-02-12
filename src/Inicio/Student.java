@@ -1,3 +1,5 @@
+package Inicio;
+
 public class Student {
 
     private String name;

@@ -1,3 +1,5 @@
+package Inicio;
+
 public class Week {
     private String[] weekDays = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
 
